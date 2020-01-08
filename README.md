@@ -2,7 +2,7 @@
 
 # DRAFT encoding template
 
-This repository contains an [MEI](https://music-encoding.org) encoding of [Clavierstück „Für Elise“ (WoO) by Ludwig van Beethoven, Breitkopf und Härtel edition, 1862–90. Plate B.298.](https://imslp.org/wiki/Special:ReverseLookup/318757) 
+This repository contains an [MEI](https://music-encoding.org) encoding of [Clavierstück „Für Elise“ (WoO 59) by Ludwig van Beethoven, Breitkopf und Härtel edition, 1862–90. Plate B.298.](https://imslp.org/wiki/Special:ReverseLookup/318757) 
 
 **Note: The MEI header still needs to be FRBRized. **
 
