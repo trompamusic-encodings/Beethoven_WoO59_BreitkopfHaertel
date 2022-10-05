@@ -436,7 +436,8 @@
                               <note xml:id="note-0000000761212486" dur="16" oct="4" pname="e" stem.dir="down" />
                            </layer>
                         </staff>
-                        <slur xml:id="slur-0000001138167023" startid="#note-0000000761212486" endid="#note-0000001196140165" curvedir="below" />
+                        <slur xml:id="slur-0000001138167023" startid="#note-0000000761212486" endid="#note-0000001196140165" curvedir="above"/>
+                        <beamSpan xml:id="beamSpan-0000000040134545" startid="#note-0000000761212486" endid="#note-0000001196140165" plist="#note-0000000761212486 #note-0000001196140165"/>
                      </measure>
                      <sb xml:id="s797iqj" />
                      <measure xml:id="measure-0000001595391843" n="13">
@@ -1561,6 +1562,7 @@
                         <slur xml:id="slur-0000001791173184" startid="#note-0000001507702191" endid="#note-0000000821939842" curvedir="above" />
                         <pedal xml:id="pedal-0000001725338902" staff="2" tstamp="1.000000" dir="down" place="below" vgrp="100" />
                         <slur xml:id="slur-0000000138616199" startid="#note-0000000625074589" endid="#note-0000001359631281" curvedir="above" />
+                        <beamSpan xml:id="beamSpan-0000000194358368" startid="#note-0000000625074589" endid="#note-0000001359631281" plist="#note-0000000625074589 #note-0000001359631281"/>
                      </measure>
                      <measure xml:id="measure-0000000466590155" n="50">
                         <staff xml:id="staff-0000000623302360" n="1">
@@ -2919,6 +2921,7 @@
                         <pedal xml:id="pedal-0000001301678546" staff="2" tstamp="1.000000" dir="down" place="below" vgrp="100" />
                         <slur xml:id="slur-0000002042491526" startid="#note-0000001814244976" endid="#note-0000000628980187" curvedir="above" />
                         <slur xml:id="slur-0000002065900981" startid="#note-0000001320658618" endid="#note-0000000888653583" curvedir="above" />
+                        <beamSpan xml:id="beamSpan-0000000203520872" startid="#note-0000001320658618" endid="#note-0000000888653583" plist="#note-0000001320658618 #note-0000000888653583"/>
                      </measure>
                      <measure xml:id="measure-0000001210187154" n="94">
                         <staff xml:id="staff-0000000218696894" n="1">
