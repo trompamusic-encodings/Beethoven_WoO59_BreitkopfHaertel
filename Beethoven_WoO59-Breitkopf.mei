@@ -39,7 +39,7 @@
             <score xml:id="score-0000000434362718">
                <scoreDef xml:id="scoredef-0000000682366941" key.mode="minor" key.sig="0" meter.count="3" meter.unit="8">
                   <pgHead xml:id="pghead-0000002045266725">
-                     <rend xml:id="rend-0000000423485031" halign="left" valign="middle" fontsize="100.00%">Beethoven's Werke.<lb xml:id="lb-0000000931946803" />
+                     <rend xml:id="rend-0000000423485031" halign="left" valign="middle" fontsize="100.00%">Beethoven’s Werke.<lb xml:id="lb-0000000931946803" />
                      </rend>
                      <rend xml:id="rend-0000000423485032" halign="right" valign="middle" fontsize="100.00%">VOLUME XXXII. <abbr xml:id="abbr-0000000045878681" type="superscription">No.</abbr> 298.<lb xml:id="lb-0000000931946807" />
                      </rend>
@@ -73,11 +73,11 @@
                      </rend>
                   </pgHead>
                   <pgFoot xml:id="pgfoot-0000000472217220">
-                     <rend xml:id="rend-0000001325220316" halign="center" fontsize="100.00%">B.187.</rend>
+                     <rend xml:id="rend-0000001325220316" halign="center" fontsize="100.00%">B.298.</rend>
                   </pgFoot>
                   <pgFoot2 xml:id="pgfoot2-0000001694763880">
                      <rend xml:id="rend-0000001820920999" halign="center" valign="bottom">
-                        <rend xml:id="rend-0000000429776796" fontsize="100.00%">B.187.</rend>
+                        <rend xml:id="rend-0000000429776796" fontsize="100.00%">B.298.</rend>
                      </rend>
                   </pgFoot2>
                   <staffGrp xml:id="staffgrp-0000000652193165" bar.thru="true" symbol="brace">
